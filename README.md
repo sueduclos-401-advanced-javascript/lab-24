@@ -1,6 +1,6 @@
 # Lab-24 - Class 24
 
-Code 401 Class 23 Routing and Component Composition
+Code 401 Class 24 Routing and Component Composition
 
 ## Project Name - RESTy app
 
